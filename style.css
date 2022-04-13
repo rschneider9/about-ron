@@ -1,6 +1,19 @@
 h1 {
-    color:hotpink;}
+    color: coral;
+    font-family: impact;
+    font-size: 5vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 
+}
+p {
+    font-family: Calibri;
+    align-items: center;
+
+}
 marquee {
     color: cornflowerblue;
+    font-size: 3vw;
+    font-family: "Arial Black";
 }
