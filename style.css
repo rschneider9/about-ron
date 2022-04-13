@@ -4,11 +4,3 @@ h1 {
 marquee {
     color: cornflowerblue;
 }
-.header {
-    height: 25vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: fantasy, Impact;
-    font-size: 10vw;
-}
